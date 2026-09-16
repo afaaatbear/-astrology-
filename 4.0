@@ -271,12 +271,11 @@
             </div>
 
             <p class="text-line">
-                今天，宇宙允許妳靠近一個人的秘密。<br>
-                請對著水晶球，說出妳現在最想了解的那個人的名字。
+                今天，宇宙允許妳靠近一個人的秘密<br>
             </p>
 
             <div class="input-group">
-                <input type="text" id="targetName" placeholder="輸入她的名字..." autocomplete="off">
+                <input type="text" id="targetName" placeholder="請對著水晶球，輸入她的名字..." autocomplete="off">
             </div>
 
             <button class="btn-submit" onclick="goToStep2()">開啟命運之門</button>
